@@ -1,10 +1,10 @@
 -------------------------------------------------------
-Axel Wahlstrom's README.txt File for CS457 Chat Program
+README.md File for ChatC
 -------------------------------------------------------
 Written in the C programming language by Axel Wahlstrom
 using Beej's Guide to Network Programming
 -------------------------------------------------------
-Overview: This is a chat program for CS457 to establish
+Overview: This is a chat program to establish
 TCP client/server connections to allow the client and
 server to send message packets back and forth.
 
